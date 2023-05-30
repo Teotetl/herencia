@@ -1,6 +1,6 @@
 public class SchoolApp {
     public static void main(String[] args) {
-        Student s1 = new Student("Javier", "Garcia", "BaeVAJ@naver.com", "Iguala", 123123, "Informatica", 9.1);
+        Student s1 = new Student("Teotetl", "Rivera", "teotetl111@naver.com", "Iguala", 123123, "Informatica", 9.1);
         Teacher t1 = new Teacher("Luis", "Morales", "LuisM@gmail.com", "Iguala", 123123, "si",4);
 
 
